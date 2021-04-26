@@ -120,7 +120,7 @@ string Solve(double a, double b, double c, double d, double e, double f, string 
 
 int main()
 {
-	double a, b, c, d, e, f;
+	double a, b, c, d, e, f;;
 	string output = "";
 
 	cin >> a >> b >> c >> d >> e >> f;
